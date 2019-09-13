@@ -1,6 +1,6 @@
 # Tour of Machine Learning Algorithms for Binary/Multiclass Classification
 
-In this repo, I share my practices in building Machine Learning algorithms for binary and multiclass classfication problems.
+In this repo, I share my practices in building Machine Learning algorithms for binary and multiclass classfication problems using scikit-learn.
 
 # Table of contents
 - Data Example
