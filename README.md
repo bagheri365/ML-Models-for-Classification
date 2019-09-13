@@ -18,3 +18,16 @@ In this repo, I share my practices in building Machine Learning algorithms for b
 
 # Demos
 
+<p align="center">
+    <img src="https://github.com/bagheri365/ML-Models-for-Classification/blob/master/img/Binary_Classification.png" width="640">
+</p>
+<p align="left">
+    Figure: Binary classification task: (Left panel) Confusion matrix (middle panel) ROC curve (Right panel) Decision boundary for the given classifier.
+</p>
+
+<p align="center">
+    <img src="https://github.com/bagheri365/ML-Models-for-Classification/blob/master/img/Multiclass_Classification.png" width="640">
+</p>
+<p align="left">
+    Figure: Multiclass classification task: (Left panel) Confusion matrix (Right panel) Decision boundary for the given classifier.
+</p>
